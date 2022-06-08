@@ -1,0 +1,11 @@
+The Music Streaming Sessions Dataset
+https://paperswithcode.com/paper/the-music-streaming-sessions-dataset
+
+Research Website of Spotify: https://research.atspotify.com/datasets/
+
+Link to Dataset: https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge/dataset_files
+
+Click on the dataset: 'Training_Set_Split_Download.txt (1.32 KB)'
+
+The below link will redirect and download partial of the main dataset
+https://os.zhdk.cloud.switch.ch/swift/v1/crowdai-public/spotify-sequential-skip-prediction-challenge/split-files/training_set_0.tar.gz
